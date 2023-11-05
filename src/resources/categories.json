@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Vulnerability",
+    "subcategories": [
+      "Capacity",
+      "Ecosystem",
+      "Exposure",
+      "Food",
+      "Habitat",
+      "Health",
+      "Infrastructure",
+      "Sensitivity",
+      "Water"
+    ],
+    "highLabel": "At Risk",
+    "lowLabel": "Safe",
+    "isNegative": true,
+    "isIndex": true
+  },
+  {
+    "title": "Preparedness",
+    "subcategories": ["Economic", "Governance", "Social"],
+    "highLabel": "Not Ready",
+    "lowLabel": "Prepared",
+    "paris": false,
+    "isNegative": false,
+    "isIndex": true
+  },
+  {
+    "title": "Contribution",
+    "subcategories": [
+      "Energy",
+      "Industrial",
+      "Agriculture",
+      "Waste",
+      "Land-Use",
+      "Bunker Fuels"
+    ],
+    "highLabel": "High Volume",
+    "lowLabel": "Low Volume",
+    "isNegative": true,
+    "isIndex": false
+  }
+]

@@ -1,0 +1,107 @@
+@import '../../../../variables';
+@import '../../../../mixins';
+
+$label-width: 120px;
+$bar-height: 10px;
+$row-height: $bar-height * 3;
+
+.row {
+  margin: 0 auto 20px;
+
+  &:hover .row__bar-value {
+    opacity: 1;
+  }
+
+  &__bar--negative {
+    .row__bar-primary,
+    .row__bar-secondary {
+      left: auto;
+      right: $label-width;
+    }
+
+    .row__bar-value {
+      left: 0;
+      position: absolute;
+      right: auto;
+    }
+  }
+
+  &--negative {
+    text-align: center;
+  }
+
+  &--negative &__bar {
+    height: $row-height;
+    left: $label-width / 2;
+    width: calc(50% - #{$label-width});
+  }
+
+  &--negative &__title {
+    border: solid 1px $orange;
+    font-size: 1rem;
+    left: 0;
+    line-height: $row-height;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: $label-width;
+    z-index: 1;
+  }
+
+  &__title {
+    box-sizing: border-box;
+    color: $orange;
+    display: inline-block;
+    font-size: 1rem;
+    overflow: hidden;
+    // padding-top: 17px;
+    text-overflow: ellipsis;
+    user-select: none;
+    white-space: nowrap;
+    width: 100%;
+  }
+
+  &__bar {
+    display: block;
+    position: relative;
+    width: 100%;
+
+    @include tablet-up {
+      display: inline-block;
+      width: 100%;
+    }
+
+    &-primary,
+    &-secondary {
+      border-bottom: solid $bar-height $primary-color;
+      bottom: 50%;
+      box-sizing: border-box;
+      color: $primary-color;
+      max-width: 100%;
+      position: absolute;
+    }
+
+    &-secondary {
+      border-bottom: solid $bar-height $secondary-color;
+      bottom: auto;
+      color: $secondary-color;
+      line-height: 1.5rem;
+      top: 50%;
+    }
+  }
+
+  &__bar-value {
+    bottom: 0;
+    font-size: 1.2rem;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    transition: opacity 200ms ease-in-out;
+    white-space: nowrap;
+  }
+
+  &__bar-secondary &__bar-value {
+    bottom: -1 * $row-height - 3px;
+  }
+}

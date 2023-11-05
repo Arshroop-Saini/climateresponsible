@@ -1,0 +1,17 @@
+@import '../../variables';
+@import '../../mixins';
+
+.comparisons {
+  border: solid 1px $orange;
+  box-sizing: border-box;
+  font-family: 'SanFranciscoText-RegularItalic';
+  margin: 20px auto 0;
+  max-width: 975px;
+  padding: 0 25px;
+  position: relative;
+  width: 100%;
+
+  @include mobile-only {
+    display: none;
+  }
+}

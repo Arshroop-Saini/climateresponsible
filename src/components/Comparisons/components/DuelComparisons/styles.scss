@@ -1,0 +1,17 @@
+@import '../../../../variables';
+@import '../../../../mixins';
+
+/* stylelint-disable */
+:export {
+  enter: $max-enter-duration;
+  exit: $max-exit-duration;
+}
+/* stylelint-enable */
+
+.duel-comparisons {
+  padding: 20px 0 0;
+
+  &__row-fade {
+    @include create(123.33px, 100%, 20px);
+  }
+}

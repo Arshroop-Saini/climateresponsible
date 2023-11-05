@@ -1,0 +1,220 @@
+@import 'variables';
+
+$mobile-width: 0;
+$tablet-width: 640px;
+$desktop-width: 1024px;
+$widescreen-width: 1440px;
+$max-enter-duration: 300;
+$max-exit-duration: 255;
+
+@mixin create($height, $width, $margin) {
+  @include slide($height, $width, $margin);
+  @include fade;
+  transition-property: opacity, max-height, width, margin-bottom;
+}
+
+@mixin slide($height, $width, $margin) {
+  max-height: 0;
+  overflow-y: hidden;
+  transition-property: max-height, width, margin-bottom;
+
+  &-enter,
+  &-appear {
+    margin-bottom: 0;
+    max-height: 0;
+    width: 0;
+    @include transition-in;
+  }
+
+  &-enter-active,
+  &-appear-active {
+    margin-bottom: $margin;
+    max-height: $height;
+    width: $width;
+  }
+
+  &-exit {
+    margin-bottom: $margin;
+    max-height: $height;
+    width: $width;
+    @include transition-out;
+  }
+
+  &-exit-active {
+    margin-bottom: 0;
+    max-height: 0;
+    width: 0;
+  }
+}
+
+@mixin fade-in {
+  animation: fade-in-animation 1s;
+}
+
+@keyframes fade-in-animation {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@mixin fade {
+  transition-property: opacity;
+
+  &-enter,
+  &-appear {
+    opacity: 0;
+    @include transition-in;
+  }
+
+  &-enter-active,
+  &-appear-active {
+    opacity: 1;
+  }
+
+  &-exit {
+    opacity: 1;
+    @include transition-out;
+  }
+
+  &-exit-active {
+    opacity: 0;
+  }
+}
+
+@mixin resize {
+  transition-property: max-width;
+  @include transition-in;
+}
+
+@mixin transition-in {
+  transition-duration: 225ms;
+  transition-timing-function: ease-in-out;
+  @include tablet-up {
+    transition-duration: 295ms;
+  }
+
+  @include desktop-up {
+    transition-duration: 200ms;
+  }
+}
+
+@mixin animation-in {
+  animation-duration: 225ms;
+  animation-timing-function: ease-in-out;
+  @include tablet-up {
+    animation-duration: 295ms;
+  }
+
+  @include desktop-up {
+    animation-duration: 200ms;
+  }
+}
+
+@mixin transition-out {
+  transition-duration: 195ms;
+  transition-timing-function: ease-in-out;
+  @include tablet-up {
+    transition-duration: 250ms;
+  }
+
+  @include desktop-up {
+    transition-duration: 175ms;
+  }
+}
+
+@mixin button {
+  background-color: $bg-grey;
+  border: 1px solid $orange;
+  color: $orange;
+  cursor: pointer;
+  font-family: 'SanFranciscoText-RegularItalic';
+  font-size: 1rem;
+  height: 35px;
+  line-height: 35px;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  text-align: center;
+  user-select: none;
+
+  &--active {
+    background-color: $orange;
+    color: $bg-grey;
+  }
+
+  &--active:hover {
+    background-color: rgba($orange, 0.7);
+    color: $bg-grey;
+  }
+
+  @include tablet-up {
+    background-color: $bg-grey;
+    color: $orange;
+    height: 24px;
+    line-height: 24px;
+
+    &:hover {
+      background-color: $trans-orange;
+    }
+
+    &--active {
+      background-color: $orange;
+      color: $bg-grey;
+    }
+
+    &--active:hover {
+      background-color: rgba($orange, 0.7);
+      color: $bg-grey;
+    }
+  }
+}
+
+@mixin mobile-only {
+  @media (min-width: #{$mobile-width}) and (max-width: #{$tablet-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet-only {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop-only {
+  @media (min-width: #{$desktop-width}) and (max-width: #{$widescreen-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet-up {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin desktop-up {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+@mixin widescreen-up {
+  @media (min-width: #{$widescreen-width}) {
+    @content;
+  }
+}
+
+@mixin tablet-down {
+  @media (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop-down {
+  @media (max-width: #{$widescreen-width - 1px}) {
+    @content;
+  }
+}

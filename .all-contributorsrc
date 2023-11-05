@@ -1,0 +1,33 @@
+{
+  "projectName": "whoisresponsible.us",
+  "projectOwner": "kevinahuber",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "kevinahuber",
+      "name": "Kevin Huber",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6272414?v=4",
+      "profile": "https://kevinahuber.com",
+      "contributions": [
+        "blog",
+        "code",
+        "doc",
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "name": "Claire Sweet",
+      "avatar_url": "https://mir-s3-cdn-cf.behance.net/user/230/fdb4d325627831.582cc6a4471e0.jpeg",
+      "profile": "https://www.behance.net/csweetdesigns",
+      "contributions": [
+        "ideas",
+        "design"
+      ]
+    }
+  ]
+}

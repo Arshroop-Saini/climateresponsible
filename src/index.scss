@@ -1,0 +1,35 @@
+@import '~normalize.css/normalize.css';
+@import 'variables';
+
+html {
+  background: $bg-grey;
+  height: calc(100% - 20px);
+}
+
+body {
+  background: $bg-grey;
+  font-family: sans-serif;
+  margin: 0;
+  min-height: 100%;
+  padding: 0;
+  position: relative;
+}
+
+@font-face {
+  font-family: 'SanFranciscoText-RegularItalic';
+  src: url('./fonts/SanFranciscoText-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SanFranciscoText-BoldItalic';
+  src: url('./fonts/SanFranciscoText-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SanFranciscoText-HeavyItalic';
+  src: url('./fonts/SanFranciscoText-HeavyItalic.otf') format('opentype');
+}
+
+b {
+  font-family: 'SanFranciscoText-HeavyItalic';
+}

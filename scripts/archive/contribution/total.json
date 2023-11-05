@@ -1,0 +1,1932 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.2982447509037482,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.011514971570320795,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.45161810146034465,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.25718643071223474,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Albania",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.5358470342362198,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.39174537849797036,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9794783434587332,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.12381094623108065,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2207002420127486,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.027690245834002515
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.17950379963978,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4019098415416766,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.32710236537620835,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.010277830466572851,
+    "Waste Per Capita (tCO2e Per Capita)": 0.25819350204366476,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.05496849627644684
+  },
+  {
+    "Country": "Andorra",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.827398608989814,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.27454779546343866,
+    "Waste Per Capita (tCO2e Per Capita)": 0.7127362634588441,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Angola",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.626370045005907,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.05151755831418372,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.0989452671435926,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.5020233750782768,
+    "Waste Per Capita (tCO2e Per Capita)": 0.08550358088154938,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.06946387926568581
+  },
+  {
+    "Country": "Antigua & Barbuda",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.383700318584071,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 4.275907539823009,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.22461390644753476,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.06665790139064476,
+    "Waste Per Capita (tCO2e Per Capita)": 1.5911422907711756,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.880519946772467,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2409085854698235,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.6145317353285478,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.201142679591448,
+    "Waste Per Capita (tCO2e Per Capita)": 0.37560227669964635,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.17775083079319098
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.039296552910654,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2147231592928271,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.4701006117912615,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.05046648223465533,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2440918757010825,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0447316445417071
+  },
+  {
+    "Country": "Australia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 17.64143789182025,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.8180606878040352,
+    "Agriculture Per Capita (tCO2e Per Capita)": 6.046162087106204,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -2.835458512011622,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6314688482787423,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.5988740145538747
+  },
+  {
+    "Country": "Austria",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.268251925435297,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.5390971632280932,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7727801605675768,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.5727066846571036,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2177444659796349,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.23297811000898547
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.51165203560453,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.1897901133278497,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6761181108200571,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.8880336282478624,
+    "Waste Per Capita (tCO2e Per Capita)": 0.23619544305820647,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.13633867113214268
+  },
+  {
+    "Country": "Bahamas, The",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.30849702618475,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.17116991959054764,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.06754080001255988,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.010943849448804,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5557791448285968,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 23.01925979330992,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.757512679989554,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.026521460314562217,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.003636045276964854,
+    "Waste Per Capita (tCO2e Per Capita)": 2.420016393332221,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.1149381508638525
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.40839681049709775,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.05802281228716395,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.46795105198492204,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.18331805811776158,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1177075114933929,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.008406246069178173
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.442029775746776,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4316163523122254,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.18829895724897225,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.014951038340067398,
+    "Waste Per Capita (tCO2e Per Capita)": 6.778334460186672,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.292113667924392,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3401934288745878,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.1097974871737444,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.03465030543528843,
+    "Waste Per Capita (tCO2e Per Capita)": 0.7127561002356745,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.03588575705912421
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.990260645476244,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.7358466775572646,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7839462766582417,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.23451533880147096,
+    "Waste Per Capita (tCO2e Per Capita)": 0.08069040830107296,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.9020333289410518
+  },
+  {
+    "Country": "Belize",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.7709765904451025,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.19450653408929355,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9055150215812608,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 6.48373898900749,
+    "Waste Per Capita (tCO2e Per Capita)": 24.99895014131603,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Benin",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.6802481198073788,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.07288659223666416,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.4642771567824588,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.0526201180707693,
+    "Waste Per Capita (tCO2e Per Capita)": 0.01863031277632736,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.056383419697178264
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.8653609951986482,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.44811243895276953,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5831622980547313,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -4.881631867169469,
+    "Waste Per Capita (tCO2e Per Capita)": 0.07032117669180679,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.031564575954594,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.16961173809256233,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.194885259727675,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 8.115172068513644,
+    "Waste Per Capita (tCO2e Per Capita)": 0.19264550022395988,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.017988746429588875
+  },
+  {
+    "Country": "Bosnia & Herzegovina",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.520043785729789,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.39553613093879364,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7216067741969859,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.041547761330475975,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3968119897296749,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0028042609061913032
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.755311462422524,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.08852355765750103,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.568253916285041,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 10.319232047987317,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1269269196840503,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.013833982070236972
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.483831158890256,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2759387235393916,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.1639403769394203,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.4993148731526489,
+    "Waste Per Capita (tCO2e Per Capita)": 0.22287995493414223,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0909344062607374
+  },
+  {
+    "Country": "Brunei",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 45.22453478712862,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.7070493412743136,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3579425995375318,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.3319749140158947,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3652859457279988,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.093018284981443
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.2155733077997075,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3978659174538874,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7603428213254321,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -1.3725067546260779,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6280270744294871,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.10659006209632475
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.15090706197329837,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.013556771398029237,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.12975487230536,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.5172871544185461,
+    "Waste Per Capita (tCO2e Per Capita)": 0.0421202360835568,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.06319839715562098,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.008161175682055525,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.22460961059626217,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.2281899737054669,
+    "Waste Per Capita (tCO2e Per Capita)": 0.0378051666078637,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.5403424268816479,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.05492010563959036,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.2674080450323788,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.5571121926239573,
+    "Waste Per Capita (tCO2e Per Capita)": 0.02581799409198869,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.015061434280741207
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.45402353175625215,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 2.6398803479547395,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5213405822255348,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 5.09987631691216,
+    "Waste Per Capita (tCO2e Per Capita)": 0.12298490375677881,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.018884973604202607
+  },
+  {
+    "Country": "Canada",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 17.89729431482125,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6853824801452059,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.7381810591346682,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.4291540557369053,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6418055793285297,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.09509189647114535
+  },
+  {
+    "Country": "Cape Verde",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.9539175000997271,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.004497313068800256,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.2128210973012915,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.32039294350511077,
+    "Waste Per Capita (tCO2e Per Capita)": 0.061217703162961566,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Central African Republic",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.153443065408275,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.006302146746063243,
+    "Agriculture Per Capita (tCO2e Per Capita)": 3.9149993400351506,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.951095940286026,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6809593745127777,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Chad",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.4718526710538785,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.009179348031952392,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.419648234510523,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.8577286177953722,
+    "Waste Per Capita (tCO2e Per Capita)": 0.12344228898794482,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Chile",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.563801121711513,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.23001713179633373,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5585876765476702,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -5.957755175800244,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1632920496760551,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.14761154862795633
+  },
+  {
+    "Country": "China",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.995550280369722,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.070758251665726,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5186951987509804,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.228021246014352,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1461944874548293,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.03269880595483299
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.8569350106129885,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.17292828566742185,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.1221075089464407,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.40833819555782147,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2559260494940242,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.12700894090633874
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.20264819557931749,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0011683744082382453,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3126357512987483,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.08822929080769307,
+    "Waste Per Capita (tCO2e Per Capita)": 0.007447738630602396,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Congo, Rep.",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.8954059726948793,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.04946752099781959,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3715127237148234,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.5240023764647868,
+    "Waste Per Capita (tCO2e Per Capita)": 0.12030377341796034,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.026688011601483937
+  },
+  {
+    "Country": "Congo, Dem. Rep.",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.15388736953503973,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0027372827369963673,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.25132247039791994,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.245583150192491,
+    "Waste Per Capita (tCO2e Per Capita)": 0.15088441048000578,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.009766305864965087
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": null,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": null,
+    "Agriculture Per Capita (tCO2e Per Capita)": null,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": null,
+    "Waste Per Capita (tCO2e Per Capita)": null,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.5924508811737073,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2765521356993847,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7285370172829645,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -2.3884056478352944,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3236015459556602,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.10299364697351067
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.6117667796203956,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.07269467568521193,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.21259833077023793,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.24269247071302874,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6004129317595261,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.015977737685491548
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.8790293057102594,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6324803124489045,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.606887404624729,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.9066302550332213,
+    "Waste Per Capita (tCO2e Per Capita)": 0.23401415632213088,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.08257854576349646
+  },
+  {
+    "Country": "Cuba",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.762185552380569,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.21161555877842614,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9176722305620385,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -1.2205376822797176,
+    "Waste Per Capita (tCO2e Per Capita)": 0.20193821473811485,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.23252221832839778
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.004121462211959,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.45155935170167033,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.32009461003949463,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.2641073705056543,
+    "Waste Per Capita (tCO2e Per Capita)": 0.31822083573069376,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.2496648034511577
+  },
+  {
+    "Country": "Czech Republic",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 9.80073513965858,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.38911051208097935,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5981072833038189,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -1.1872412662499394,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3062464426113457,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0826576073928964
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.3195144144343685,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.41477394637169474,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.6735545386486166,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.0876782478880477,
+    "Waste Per Capita (tCO2e Per Capita)": 0.23472285586451608,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.8877508981611507
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.5992181405975241,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2209147269569946,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7127811446187308,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.127211433470297,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.8681715078732584,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.02558936766605293,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.44996702300145647,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.5973755805325787,
+    "Waste Per Capita (tCO2e Per Capita)": 0.9937739426749841,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.9710441526895848,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.26450031270889707,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7479474995012418,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.836132725034125,
+    "Waste Per Capita (tCO2e Per Capita)": 0.19811586047225002,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.14126677278652264
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.6191995610670413,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2397257913419713,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.8174068949523842,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.1316512265020835,
+    "Waste Per Capita (tCO2e Per Capita)": 0.13609205374394648,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.16097478279722863
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.075239657281771,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3027403588741872,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.33824079374930005,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.002380211222938699,
+    "Waste Per Capita (tCO2e Per Capita)": 0.25379753475139777,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.07885630818770493
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.138972768849974,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.15747390247292353,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.4178694670706453,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.11667072906101057,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16767689668309613,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.07641865258313355
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 18.037935398929015,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.018212367543101612,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.0186113452520931,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 4.746058787488135,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1468526470129907,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Eritrea",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": null,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": null,
+    "Agriculture Per Capita (tCO2e Per Capita)": null,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": null,
+    "Waste Per Capita (tCO2e Per Capita)": null,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 14.025198726555576,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2036854409700695,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.0054121388008777,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.341244004579532,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5291230380093492,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.8748274117660483
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.2694793063596828,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.028067258785835922,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9885889215144379,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.19014523578649117,
+    "Waste Per Capita (tCO2e Per Capita)": 0.0409415264595292,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.012632646122177162
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.2119493433099346,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.1756533857300583,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9954677435013987,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -3.3759192193324497,
+    "Waste Per Capita (tCO2e Per Capita)": 0.12612044172200232,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Finland",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 8.550638275627703,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.9228832116454196,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.0276117126539317,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.0463796838677641,
+    "Waste Per Capita (tCO2e Per Capita)": 0.39834231546135934,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.39732586873378656
+  },
+  {
+    "Country": "France",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.43649352603904,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.39298146216310187,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.089422748374513,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -1.188503563975958,
+    "Waste Per Capita (tCO2e Per Capita)": 0.30908602153860765,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.342218155873194
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.293062366684029,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.05307225732294865,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.2334880656049193,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -50.19970528540347,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2901342854690457,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.41584186919853944
+  },
+  {
+    "Country": "Gambia, The",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.30729443773555,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.004034264896352795,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6308213563924641,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.12739945522386503,
+    "Waste Per Capita (tCO2e Per Capita)": 3.0653851011444058,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.4219027378588676,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.540228043466595,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7007706466326804,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0018781862087469815,
+    "Waste Per Capita (tCO2e Per Capita)": 0.7326326777569091,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.06707807888382077
+  },
+  {
+    "Country": "Germany",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 9.19668663970611,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.492106020683481,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7487504781897324,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.4614209576142994,
+    "Waste Per Capita (tCO2e Per Capita)": 0.10803513909795324,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.38749112462569074
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.6233674992247584,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0607297428660621,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.34066305565980504,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.30816782514332924,
+    "Waste Per Capita (tCO2e Per Capita)": 0.09753201170081643,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.014464500277662773
+  },
+  {
+    "Country": "Greece",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.292422238304772,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3849829574952767,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7707665509928792,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.062158026876138465,
+    "Waste Per Capita (tCO2e Per Capita)": 0.27406035182470584,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.7647524933180554
+  },
+  {
+    "Country": "Grenada",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.281041491162091,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.04264832643851072,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.1354606995110944,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 15.86640146671681,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.188098520563148,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.1407888998307476,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5270734953159655,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.47388903448029424,
+    "Waste Per Capita (tCO2e Per Capita)": 0.08192328291684038,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.06908003418080091
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.2441274659991365,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.023936859054531235,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9572303574543038,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.1981089167777519,
+    "Waste Per Capita (tCO2e Per Capita)": 0.13298133778052265,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.15736332329708233,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.01424648441483789,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.956863010968023,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.8533517717575724,
+    "Waste Per Capita (tCO2e Per Capita)": 0.04466554367275795,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Guyana",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.6700001925613677,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.042950624383508884,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.988772362334996,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 26.849457356826694,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16365854808728925,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.3597374852754315,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.034391976668451806,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3692562548794198,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.013040164896250317,
+    "Waste Per Capita (tCO2e Per Capita)": 0.056840070140684304,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.010404384369739283
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.1386639651020023,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.10984737994845399,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6716254204687455,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.1927548036056783,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5176306591869242,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.023838670773880445
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.3337577023510345,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.33921161817987955,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7129674874534635,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.4304823671449601,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3664022143486403,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.05371729782126694
+  },
+  {
+    "Country": "Iceland",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.460790901260285,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.39123116443586464,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.3792410182475732,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.5599912641346912,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6672388800987215,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.8632439994379724
+  },
+  {
+    "Country": "India",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.6993433429709552,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.14930993431500597,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.48449173701263376,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0946745384664679,
+    "Waste Per Capita (tCO2e Per Capita)": 0.04718548428960777,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.012883935739615287
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.065579134220539,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.12314974407120141,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6491338712287842,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 6.593343357616952,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2565272660822759,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.01269935259484382
+  },
+  {
+    "Country": "Iran",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 8.154567241583628,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.47185759522390025,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.44434532042992075,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.8554731006679515,
+    "Waste Per Capita (tCO2e Per Capita)": 0.28511675299713973,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.1970384496111851
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.730574280239318,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.18843542241804853,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.24501847107702432,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.05828781457392545,
+    "Waste Per Capita (tCO2e Per Capita)": 0.26022083180978844,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0645602135400479
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.47554577478897,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.35982997211528567,
+    "Agriculture Per Capita (tCO2e Per Capita)": 4.434630151227198,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.09513775048865931,
+    "Waste Per Capita (tCO2e Per Capita)": 0.4445803410056906,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.5544455814910471
+  },
+  {
+    "Country": "Israel",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.997947942354274,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.6579697006950107,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.16738349745000425,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.008925995350365763,
+    "Waste Per Capita (tCO2e Per Capita)": 0.8248112289884003,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.4576603332643597
+  },
+  {
+    "Country": "Italy",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.462512246430859,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4149836085853493,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.4947149425045329,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.5640083870243929,
+    "Waste Per Capita (tCO2e Per Capita)": 0.25902695382760804,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.25300571779761977
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.5702193116421688,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.333376200653579,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.21708215019319818,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.272008677583875,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16050054453271337,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.4262623742744368
+  },
+  {
+    "Country": "Japan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 9.420563499795719,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.7097628525409347,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.16271264103208777,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.05862330761494705,
+    "Waste Per Capita (tCO2e Per Capita)": 0.03561693445739967,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.24050095854678022
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.7739016297084014,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.34549922797550686,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.1344652121290826,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.42440598646476807,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.11692180973166331
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 15.107756241691355,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2883450642434849,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.1979635349741549,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.012528023235744994,
+    "Waste Per Capita (tCO2e Per Capita)": 0.273824467656848,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.039909252144572825
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.4229807938206489,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.06624262967891927,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.8068078806281471,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.6786808519421828,
+    "Waste Per Capita (tCO2e Per Capita)": 0.019142737947929624,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.039327093868992975
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.5639066432490177,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.012139736370385124,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.07350124029042714,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.05128102989371525,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1187280323742961,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Korea, Dem. Rep. (North)",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.2380746495820274,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2413181328044988,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.1808356329298155,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.5693930845003315,
+    "Waste Per Capita (tCO2e Per Capita)": 0.07570865845504782,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0
+  },
+  {
+    "Country": "Korea, Rep. (South)",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 11.427591564205242,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.329257523337645,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.25045857501673163,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.780130175663387,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2189794076886914,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.7913821479360839
+  },
+  {
+    "Country": "Kuwait",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 51.076399185712965,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.1572459075466959,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.11030350698621263,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.004086716281775041,
+    "Waste Per Capita (tCO2e Per Capita)": 0.25953420560747664,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.5413290327697657
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.5372335962642447,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.15647757878502272,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7774743381029903,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.1397800531231257,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1281057001113872,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0017136492160054837
+  },
+  {
+    "Country": "Laos",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.26559501106761046,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.18308606429934202,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.2311983294195896,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.7471476098538457,
+    "Waste Per Capita (tCO2e Per Capita)": 0.07666068654310255,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.6733939859021696,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6895323144656739,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.5799781520748006,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -5.437875956348288,
+    "Waste Per Capita (tCO2e Per Capita)": 0.41983862829537033,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.5316529088937507
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.013216712928269,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6176929678140246,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.13419678013534575,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.0007852544911649054,
+    "Waste Per Capita (tCO2e Per Capita)": 0.33822173480920725,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.1481275517424708
+  },
+  {
+    "Country": "Lesotho",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.25203301588929,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.003432947382892508,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6745700058486754,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.08994377349082038,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1009932737902446,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.17941407103181084,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.04687493079180101,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.09561096462848949,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.30925152201099726,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16782558463419697,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Libya",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 20.65310824698732,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2427807954020143,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.41168951281957056,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.23860454282871926,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.10960479733750605
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.2818376922455357,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.18629789640962105,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.48698251946023113,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.046406873703773534,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.698503185310707,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6968885412364823,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.6111260971085815,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.1485089690342307,
+    "Waste Per Capita (tCO2e Per Capita)": 0.48490617170361006,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.08866557289725331
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 16.952572329904243,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.1989316669033412,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.1601313275297087,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0065498392109563045,
+    "Waste Per Capita (tCO2e Per Capita)": 0.12120645528914166,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 2.1750110997467282
+  },
+  {
+    "Country": "Macedonia, FYR",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.722404247904327,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.8769570266113758,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5791319834704777,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.46091459040815985,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.014440467967431932
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.17122391969309111,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.007560792734114205,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9307861223585565,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.9193608034251752,
+    "Waste Per Capita (tCO2e Per Capita)": 0.027204766288617694,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.2554089597077434,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.01846478541773025,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3069613350363979,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.2542887805250715,
+    "Waste Per Capita (tCO2e Per Capita)": 0.016563942021126453,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 8.137581208188417,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.5806767814110996,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.4722879903104461,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -4.268073224915812,
+    "Waste Per Capita (tCO2e Per Capita)": 1.2931743349224663,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.27226397285670445
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.325925187032419,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.017463259351620946,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.004495261845386534,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.005982294264339151,
+    "Waste Per Capita (tCO2e Per Capita)": 0.20063787032418953,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Mali",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.08462951883192243,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0016667464292253787,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.7521594371604858,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.42247234337917117,
+    "Waste Per Capita (tCO2e Per Capita)": 0.020554074534426592,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Malta",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.501143039657061,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.684953451858369,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.23226383130071787,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5275565185649703,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 9.897885643151973
+  },
+  {
+    "Country": "Marshall Islands",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.939430602291202,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.03617316344663314,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6615141026125751,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.7339755174806591,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.09967510580916948,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.893038494852261,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.3735309750191933,
+    "Waste Per Capita (tCO2e Per Capita)": 0.029946039046044214,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.1742840878269605,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.21994900922649402,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.11757879476641918,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.011631615929144586,
+    "Waste Per Capita (tCO2e Per Capita)": 1.1218363522595156,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.324415076443335
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.8827434463893558,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3465897167642343,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6820019706717673,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0599439493614637,
+    "Waste Per Capita (tCO2e Per Capita)": 0.8980759972500757,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.09877509225448715
+  },
+  {
+    "Country": "Micronesia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.5008506273133684,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.02357686872085757,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.16101235398740568,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.28201028697783975,
+    "Waste Per Capita (tCO2e Per Capita)": 0.04762171802143921,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.339671311161268,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.270211373758329,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.45349419651405626,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.30449173700236504,
+    "Waste Per Capita (tCO2e Per Capita)": 0.39033358283678676,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.022494676494215916
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.489074194157384,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.07754453886184735,
+    "Agriculture Per Capita (tCO2e Per Capita)": 7.344874954512746,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 8.414956277514658,
+    "Waste Per Capita (tCO2e Per Capita)": 0.06418335467472167,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.027360754281274026
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.6434210048085425,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.8870224505878,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.618179669030733,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0995432688441807,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2732161898329072,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.08041041475691932
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.6374562252634048,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.23753638513364475,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.39756436271700735,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.042708292963458745,
+    "Waste Per Capita (tCO2e Per Capita)": 0.10783855656618571,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.07109954454913885
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.25433091380975026,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.03972821133409049,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6506164362972708,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.4580127531650848,
+    "Waste Per Capita (tCO2e Per Capita)": 0.09994790474424473,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.01396423142964846
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.5456415201687722,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.013148897848790374,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.2809077666355917,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.0242556233240228,
+    "Waste Per Capita (tCO2e Per Capita)": 0.22836309294193602,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0026962389123433854
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.6339874482916856,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.1638964104476101,
+    "Agriculture Per Capita (tCO2e Per Capita)": 2.555946624872627,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.774649809025083,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16339175416871926,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.06326465884321837
+  },
+  {
+    "Country": "Nauru",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.018560701932,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.07226921454484096,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.10242976461655279,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.32813338395342956,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.46058171485388977,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.056435870986657206,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7788090741451518,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.23097922656520845,
+    "Waste Per Capita (tCO2e Per Capita)": 0.028922020717897363,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.01271040980091226
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 8.965053707653148,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.33147710851960466,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.086563226059543,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.06878187072309719,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3002072882503228,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 3.050102318362375
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.30065479078431,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.47351299487770804,
+    "Agriculture Per Capita (tCO2e Per Capita)": 8.571292813269176,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -3.415433421291882,
+    "Waste Per Capita (tCO2e Per Capita)": 0.4502061478590594,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.7650176286670953
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.9185754733499202,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0769363208860929,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.2772562407330765,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0375723499695793,
+    "Waste Per Capita (tCO2e Per Capita)": 0.14086963728116259,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.011639513621307095
+  },
+  {
+    "Country": "Niger",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.151306313448786,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0016175018679282914,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.2078516440615181,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.08072117307620097,
+    "Waste Per Capita (tCO2e Per Capita)": 0.10023096555350657,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.005222417813374706
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.9107051401225187,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.05862799426922179,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.36404160575265726,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 1.0674078967541416,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3898816250109047,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.012127359809959059
+  },
+  {
+    "Country": "Niue",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": null,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": null,
+    "Agriculture Per Capita (tCO2e Per Capita)": null,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": null,
+    "Waste Per Capita (tCO2e Per Capita)": null,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Norway",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.228628294381098,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.7728698639656532,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.8986321038255622,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -4.27244521952678,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2264849605779922,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.3834749919801169
+  },
+  {
+    "Country": "Oman",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 25.393393538125565,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.8048530292797768,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3984562696844802,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.0012488244538838781,
+    "Waste Per Capita (tCO2e Per Capita)": 0.24154179364668607,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.3355466210544253
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.8567290597513911,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.09345281209310516,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.81026032769823,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.1541448502515467,
+    "Waste Per Capita (tCO2e Per Capita)": 0.03632203994823781,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.005173911969563471
+  },
+  {
+    "Country": "Palau",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 12.332606428368257,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 7.494002465155968,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.7210864226794349,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Panama",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.73898458396111,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.35215586889912,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.8679639476166154,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.1894481691276555,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5895101416859588,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 3.0353592456530327
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.0178310609435408,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.02281189615235595,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7295284358707727,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 7.63767322069913,
+    "Waste Per Capita (tCO2e Per Capita)": 0.39463194015821734,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.8985723580193706,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.1081206305787152,
+    "Agriculture Per Capita (tCO2e Per Capita)": 4.218971218072138,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 21.87160472876044,
+    "Waste Per Capita (tCO2e Per Capita)": 0.8661642359716413,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.016787270487490125
+  },
+  {
+    "Country": "Peru",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.6320925938469562,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.20474793191593005,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7510894267375757,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.319614346576738,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3068153388554562,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.07974596487032047
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.0190225206628476,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.15672606846225803,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5311889416190838,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.6023574285528789,
+    "Waste Per Capita (tCO2e Per Capita)": 0.10756770839384439,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.03396527085020837
+  },
+  {
+    "Country": "Poland",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.80270791112271,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.353945380288482,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.8986262400282439,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.6605637074971716,
+    "Waste Per Capita (tCO2e Per Capita)": 0.22889200590291392,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.05813994020530765
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.23843323114505,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3446661275550516,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6080215751045422,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.16958049091525462,
+    "Waste Per Capita (tCO2e Per Capita)": 0.7299266995043391,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.4711057390101126
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 35.05600573445546,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.5171923830629725,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3463476749470081,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.18971962572738849,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.6846226382117058
+  },
+  {
+    "Country": "Romania",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.099056962187765,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.42087888816397867,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7013558153836015,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -8.22586715270532,
+    "Waste Per Capita (tCO2e Per Capita)": 0.24321220480467634,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.04018287426994624
+  },
+  {
+    "Country": "Russian Federation",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 13.185484035263995,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.5403332071428951,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6412740890386994,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.748780623645726,
+    "Waste Per Capita (tCO2e Per Capita)": 0.4975390476153658,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.4454189178828993
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.15480989086548796,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.009150008941983933,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.26409679307579303,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.0759554062512092,
+    "Waste Per Capita (tCO2e Per Capita)": 0.1649837626087923,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Saint Kitts & Nevis",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.412795102253484,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2909803494668676,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.2325294478870092,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.13766166099108657,
+    "Waste Per Capita (tCO2e Per Capita)": 1.197143955041962,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.323160457088442,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.07326424858718633,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.16058972571292535,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.18876380929707914,
+    "Waste Per Capita (tCO2e Per Capita)": 3.8929370086327597,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Saint Vincent & Grenadines",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.912795404043637,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.026804264930457126,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.12347357736587505,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.16604515485977123,
+    "Waste Per Capita (tCO2e Per Capita)": 0.4505439249430763,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.0323475427739353,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.033702085391856054,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7730022362057309,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.00035675282125955586,
+    "Waste Per Capita (tCO2e Per Capita)": 0.609654896250455,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Sao Tome & Principe",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.8350493553480494,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.009061385714136333,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.08191262430332626,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.06906638921711125,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 16.76780985642331,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.1204835553961854,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.2346296983804838,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.8319891299664727,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.5637377495887964
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.6278814326385933,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.17483174760594086,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7286556523595894,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.35294657108006394,
+    "Waste Per Capita (tCO2e Per Capita)": 0.20915835785936185,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.07218424223491764
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.597492037108924,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2847668818059018,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9050119793968959,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.18439587489145337,
+    "Waste Per Capita (tCO2e Per Capita)": 0.4233165131400324,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.03646269249496815
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.416440263137731,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.016806948412307492,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.04775555774472138,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6715009139767292,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.16112981960294173,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.036555868900867074,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3992005268420189,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.8637086282246401,
+    "Waste Per Capita (tCO2e Per Capita)": 0.35397688907246366,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 8.501302696443185,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.7686225023419828,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.01860823324906339,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.008061997278107634,
+    "Waste Per Capita (tCO2e Per Capita)": 0.28786633274366313,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 28.09099691318977
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.68897676339619,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.41977305893037176,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.47037521714360897,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.9393614718355074,
+    "Waste Per Capita (tCO2e Per Capita)": 0.45453217213368136,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.018454784578222357
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.506908486018293,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6231642338916963,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6947544108090282,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -3.028506338567784,
+    "Waste Per Capita (tCO2e Per Capita)": 0.278530311642208,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.1260923966284833
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.35016264005115516,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.005696273179682504,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.10689604242542189,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.4404626205899524,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5286529494147738,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.04533001367189307,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.018106656750381575,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.5028987299384857,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.9769020859349706,
+    "Waste Per Capita (tCO2e Per Capita)": 0.15504842913833775,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 8.374387548944549,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.41263343191422347,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5540519072848991,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.04288045253328756,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3528633536260312,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.19964269313745325
+  },
+  {
+    "Country": "Spain",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 5.120694445944463,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3260523184564355,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.783665897303756,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.7132598860753115,
+    "Waste Per Capita (tCO2e Per Capita)": 0.34902639627191234,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.7704242789540869
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.0039041437581244,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.06314499041933466,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.28033635356988107,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.21623841413509218,
+    "Waste Per Capita (tCO2e Per Capita)": 0.6146568292330653,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.1348033315680516
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.0439314505812762,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.020024086016627363,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.9216045651491112,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.1893699871532375,
+    "Waste Per Capita (tCO2e Per Capita)": 0.040427829567575714,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.02225878256701689
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.477695574966054,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.21562981997634725,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.3858516082404988,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 8.43930352163058,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16346388941612766,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.27375859601991503
+  },
+  {
+    "Country": "Swaziland",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.183900605900562,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.009673398208782817,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7145008443383005,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.18919324189616685,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3817125273242082,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.050775249043173,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.33404350672589317,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6848253474847129,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.40844433489306536,
+    "Waste Per Capita (tCO2e Per Capita)": 0.17711923121746762,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.7869135148012966
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.690486260920451,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.43102307108291005,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6339918587302985,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.18956699694906937,
+    "Waste Per Capita (tCO2e Per Capita)": 0.07024210660390987,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.5764076589434961
+  },
+  {
+    "Country": "Syria",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.452579598908301,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.2069913311868038,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3256111802840064,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.06313378211527415,
+    "Waste Per Capita (tCO2e Per Capita)": 0.31722686104163444,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.04270146106694287
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.5922508361787906,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.10193205077997715,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6612651109175277,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.07418094907832297,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.02271981269308104
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.42608115375957006,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.029234883273087178,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.951389432985847,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 3.9897387088306853,
+    "Waste Per Capita (tCO2e Per Capita)": 0.08813941667968957,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.012060908968681438
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 3.8165631783972502,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.35191596849965384,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9214045044393501,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.23336678906745265,
+    "Waste Per Capita (tCO2e Per Capita)": 0.14887011798802785,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.21822134490647996
+  },
+  {
+    "Country": "Togo",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.3706097036692228,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.12317617042114895,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3604173655382585,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.9096024507135579,
+    "Waste Per Capita (tCO2e Per Capita)": 0.11336154886314197,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.04150000380416702
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.1461217787525289,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.028052012629747974,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.8448781456202379,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 1.1312327806243028,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Trinidad & Tobago",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 17.47358783692496,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.6620562778840496,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.18358854567723865,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.36948747612575333,
+    "Waste Per Capita (tCO2e Per Capita)": 0.44771998231072435,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 1.5651612817489644
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 2.417402591622257,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4852765189734158,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.3980873585819265,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.02569415504865977,
+    "Waste Per Capita (tCO2e Per Capita)": 0.12411797414336156,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.07806956051683125
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.086136907776475,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4963862576844109,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.5607121247927512,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.8420142284183376,
+    "Waste Per Capita (tCO2e Per Capita)": 0.45810989169139316,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.14293016019550042
+  },
+  {
+    "Country": "Turkmenistan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 18.93191807679171,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4144312991322556,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.477498979646159,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.21316916780654205,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.2652645574902387
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.0077007700770078,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.039265126512651266,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.000036670333700036665,
+    "Waste Per Capita (tCO2e Per Capita)": 0.600464429776311,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.21992314691052312,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.02789537968639214,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6179883274520466,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.6646899501660146,
+    "Waste Per Capita (tCO2e Per Capita)": 0.012635940309844084,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.477882729452744,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.3064523763468799,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.68401151821458,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.07545491913568461,
+    "Waste Per Capita (tCO2e Per Capita)": 0.20850136257669677,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.008835493644662554
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 22.647980826970564,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 1.0800683835404046,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.18474743373483482,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.023445024604594022,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5068264662021833,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 6.991613921800419
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.53759289593637,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.284612071441793,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.69667484611494,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.18906032919609567,
+    "Waste Per Capita (tCO2e Per Capita)": 0.3140580948215503,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.6097828987159891
+  },
+  {
+    "Country": "United States",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 17.493185442463307,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.8907271378924267,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.1033126279242778,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.16347064523308033,
+    "Waste Per Capita (tCO2e Per Capita)": 0.5122436912537764,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.35584747046440884
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.8904220636306692,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.30560203927655893,
+    "Agriculture Per Capita (tCO2e Per Capita)": 7.079441598387622,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -3.076037725475838,
+    "Waste Per Capita (tCO2e Per Capita)": 0.43818706752299863,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.2690415628273461
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.238682713596921,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.19170393842842606,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.9166784382447323,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.5330589315846113,
+    "Waste Per Capita (tCO2e Per Capita)": 0.16624583970843074,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.6853445354452385,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.027371087502414522,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.6443028781147382,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.0541131929689009,
+    "Waste Per Capita (tCO2e Per Capita)": 0.4596395789067027,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": null
+  },
+  {
+    "Country": "Venezuela",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 7.01618957903374,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.369169768814737,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.1728927726765543,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.1601538311488,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2624935851527364,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.159084516430893
+  },
+  {
+    "Country": "Vietnam",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.8432805181149559,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.34367599706378016,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6891966771337468,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.20228423798811626,
+    "Waste Per Capita (tCO2e Per Capita)": 0.10303262376155779,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.030420296068838042
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.8811504101126226,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.06488712028163025,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.29002459277444803,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0,
+    "Waste Per Capita (tCO2e Per Capita)": 0.05966988531385744,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.02171732448506033
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 1.5969517880255097,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.0751056329137991,
+    "Agriculture Per Capita (tCO2e Per Capita)": 1.4694139750824757,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 21.041560731104216,
+    "Waste Per Capita (tCO2e Per Capita)": 0.13623682114828436,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.007681979369532271
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 0.9637520353887556,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.11002821400010057,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.6766164612217686,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 2.340260438920494,
+    "Waste Per Capita (tCO2e Per Capita)": 0.048525072388303024,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.0019465762157585078
+  },
+  {
+    "Country": "World",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 4.927727215696936,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.43418432303811827,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.7216719191625548,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": 0.4335784362069476,
+    "Waste Per Capita (tCO2e Per Capita)": 0.20899931630300572,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.15551549729622158
+  },
+  {
+    "Country": "European Union (28)",
+    "Year": 2014,
+    "Energy Per Capita (tCO2e Per Capita)": 6.522917880163953,
+    "Industrial Processes Per Capita (tCO2e Per Capita)": 0.4102838741153045,
+    "Agriculture Per Capita (tCO2e Per Capita)": 0.833744565677675,
+    "Land-Use Change and Forestry Per Capita (tCO2 Per Capita)": -0.8510185324320607,
+    "Waste Per Capita (tCO2e Per Capita)": 0.2773236928553287,
+    "Bunker Fuels Per Capita (tCO2 Per Capita)": 0.5263942711983206
+  }
+]
