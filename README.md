@@ -31,15 +31,3 @@ To run tests:
 ```
 yarn test
 ```
-
-
-## Todo
-
-* [ ] Redux everything!
-* [ ] Animate categories all transition
-* [ ] Recenter on zoom out
-* [ ] Convert `activeSubcategories` to set
-* [ ] Add alphabetical sort
-* [ ] Add tooltips to Subcategories
-
-## Contributors
