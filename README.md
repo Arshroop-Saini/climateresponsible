@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-> [whoisresponsible.us](https://whoisresponsible.us?utm_source=github&utm_medium=code&utm_term=initial) explores climate change vulnerability, preparedness, and contribution data in a choropleth map and bar graph.
+> [ClimateWise-Compare.onrender.com](https://climatewise-compare.onrender.com/?utm_source=github&utm_medium=code&utm_term=initial) explores climate change vulnerability, preparedness, and contribution data in a choropleth map and bar graph.
 
 ## Why?
 
