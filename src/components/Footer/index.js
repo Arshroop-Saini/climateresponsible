@@ -20,7 +20,7 @@ export default class Footer extends Component {
             href="https://climatechronicle.in"
             className="footer__responsibility-link"
           >
-            Learn More
+            My Blog Page
           </a>
 
           <span className="footer__attribution">
