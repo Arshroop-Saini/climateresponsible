@@ -3,17 +3,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-> [ClimateWise-Compare.onrender.com](https://climatewise-compare.onrender.com/?utm_source=github&utm_medium=code&utm_term=initial) explores climate change vulnerability, preparedness, and contribution data in a choropleth map and bar graph.
+> [whoisresponsible.us](https://whoisresponsible.us) explores climate change vulnerability, preparedness, and contribution data in a choropleth map and bar graph.
 
 ## Why?
 
-The effects of climate change are reaching everyone, but in a staggeringly disproportionate way. This project seeks to explore the data behind that assertion. You can [learn more in my article](https://medium.com/@kevinahuber/who-is-responsible-for-climate-change-84cdcb9aa2cd).
+The effects of climate change are reaching everyone, but in a staggeringly disproportionate way. This project seeks to explore the data behind that assertion. You can [learn more on my blog page](https://climatechronicle.in).
 
 ## Contributing
 
 Contributions are welcome!
-
-Before beginning work, [open an issue](https://github.com/kevinahuber/whoisresponsible.us/issues) describing the changes you'd like to make.
 
 ### Requirements
 
