@@ -9,7 +9,7 @@ export default class Footer extends Component {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/kevinahuber/whoisresponsible.us#references"
+            href="https://github.com/Arshroop-Saini/climateresponsible"
             className="footer__responsibility-link"
           >
             Who is responsible for this data?
@@ -17,7 +17,7 @@ export default class Footer extends Component {
           <a
             rel="noopener noreferrer"
             target="_blank"
-            href="https://medium.com/@kevinahuber/who-is-responsible-for-climate-change-84cdcb9aa2cd"
+            href="https://climatechronicle.in"
             className="footer__responsibility-link"
           >
             Learn More
@@ -29,18 +29,9 @@ export default class Footer extends Component {
               rel="noopener noreferrer"
               target="_blank"
               className="footer__attribution-link"
-              href="https://kevinahuber.com"
+              href="https://arshroopsaini.in"
             >
-              Kevin A. Huber
-            </a>
-            {' & '}
-            <a
-              rel="noopener noreferrer"
-              target="_blank"
-              className="footer__attribution-link"
-              href="https://www.behance.net/csweetdesigns"
-            >
-              Claire Sweet
+              Arshroop S. Saini
             </a>
           </span>
         </div>
